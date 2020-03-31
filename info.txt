@@ -1,3 +1,5 @@
 This is a critical message
 
 Commit #2
+
+Commit #3
