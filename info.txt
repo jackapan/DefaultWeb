@@ -18,4 +18,8 @@ Commit #9
 
 Commit #10
 
+Chery pick Commit #1
+
+Chery pick Commit #2
+
 No more commit after this line
